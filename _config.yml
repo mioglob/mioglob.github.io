@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          Blog Title
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "http://mioglob.github.io"
 
 # Assets
 sass:
@@ -16,13 +16,13 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          http://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      playpingpong
+  name:         이름
+  url:          http://mioglob.github.io
+  email:        이메일주소
+  github:       깃헙닉네임
+  twitter:      트위터아이디
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/mioglob/mioglob.github.io
